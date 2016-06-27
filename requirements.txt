@@ -2,7 +2,7 @@ Django==1.8.2
 amqp==1.4.6
 anyjson==0.3.3
 billiard==3.3.0.20
-celery==3.1.18
+celery==3.1.23
 kombu==3.0.26
 pytz==2015.4
 redis==2.10.3
